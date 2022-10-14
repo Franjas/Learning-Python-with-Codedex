@@ -1,0 +1,5 @@
+print('13/10/2022')
+print('I am currently excited to continue learning Python with Codedex.')
+print('In these months of practice with codedex i improved a lot with Python and i feel satisfied.')
+print('Very well Python developer, it was worth doing it with Codedex. Mission accomplished.')
+print(':)')
