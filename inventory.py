@@ -8,5 +8,5 @@
 
 airplane_toys = [898, 732, 543, 878]
 
-a = print(min(airplane_toys))
-b = print(max(airplane_toys))
+print(min(airplane_toys))
+print(max(airplane_toys))
