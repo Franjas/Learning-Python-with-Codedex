@@ -23,3 +23,6 @@ print(playlist)
 #######################################
 playlist = playlist.index('LVP UP - Spirit Was')
 print(playlist)
+
+#for song in playlist:
+#    print(song)
